@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<testsuite errors="0" failures="0" name="io.cucumber.core.plugin.JUnitFormatter" skipped="0" tests="1" time="0.567">
-    <testcase classname="Ebay HomePage Scernarios" name="Advanced Search Link" time="0.038">
+<testsuite errors="0" failures="0" name="io.cucumber.core.plugin.JUnitFormatter" skipped="0" tests="1" time="0.469">
+    <testcase classname="Ebay HomePage Scernarios" name="Advanced Search Link" time="0.027">
         <system-out><![CDATA[Given When I on the Ebay HomePage...........................................passed
 When I  click on the Advanced Search Link Button............................passed
 Then I should navigate to Advanced Search page..............................passed

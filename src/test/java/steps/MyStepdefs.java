@@ -12,11 +12,11 @@ public class MyStepdefs {
 
     @When("I  click on the Advanced Search Link Button")
     public void iClickOnTheAdvancedSearchLinkButton() {
-        System.out.println("CLicked On ADV Link");
+        System.out.println("LOve I");
     }
 
     @Then("I should navigate to Advanced Search page")
     public void iShouldNavigateToAdvancedSearchPage() {
-        System.out.println("i am on adv page");
+        System.out.println("UTK BOSS");
     }
 }
